@@ -63,13 +63,16 @@ const Hero = () => {
           {/* Video Placeholder */}
           {/* Video */}
           <div className="relative aspect-video bg-black/5 rounded-2xl overflow-hidden border border-white/10 shadow-2xl backdrop-blur-sm animate-fade-in">
-            <iframe
-              src="https://www.youtube.com/embed/nffLXODytdw?autoplay=1&mute=1&loop=1&playlist=nffLXODytdw&controls=0&showinfo=0&rel=0&modestbranding=1"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-              className="absolute inset-0 w-full h-full"
-              title="Hero Video CHSC"
-            />
+            <video
+              className="w-full h-full object-cover"
+              autoPlay
+              loop
+              muted
+              playsInline
+              src="/compressed Hero Video CHSC .mp4"
+            >
+              Your browser does not support the video tag.
+            </video>
           </div>
         </div>
 
