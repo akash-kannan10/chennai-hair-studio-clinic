@@ -64,10 +64,9 @@ const Hero = () => {
           {/* Video */}
           <div className="relative aspect-video bg-black/5 rounded-2xl overflow-hidden border border-white/10 shadow-2xl backdrop-blur-sm animate-fade-in">
             <iframe
-              src="https://player.vimeo.com/video/1141608338?badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1"
-              frameBorder="0"
-              allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
-              referrerPolicy="strict-origin-when-cross-origin"
+              src="https://www.youtube.com/embed/nffLXODytdw?autoplay=1&mute=1&loop=1&playlist=nffLXODytdw&controls=0&showinfo=0&rel=0&modestbranding=1"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
               className="absolute inset-0 w-full h-full"
               title="Hero Video CHSC"
             />
