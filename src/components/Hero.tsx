@@ -69,7 +69,7 @@ const Hero = () => {
               loop
               muted
               playsInline
-              src="/compressed Hero Video CHSC .mp4"
+              src="/hero-video-compressed.mp4"
             >
               Your browser does not support the video tag.
             </video>
