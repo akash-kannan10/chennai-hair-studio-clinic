@@ -35,7 +35,7 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2">
             <img src="/symbol logo.png" alt="Chennai Hair Studio Symbol" className="h-12 w-auto" />
-            <img src="/zoomed text logo.png" alt="Chennai Hair Studio Text" className="h-10 w-auto hidden sm:block" />
+            <img src="/zoomed text logo.png" alt="Chennai Hair Studio Text" className="h-10 w-auto" />
           </Link>
 
           {/* Desktop Navigation */}
