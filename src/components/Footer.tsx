@@ -30,7 +30,7 @@ const Footer = () => {
               <img src="/zoomed text logo.png" alt="Chennai Hair Studio Text" className="h-10 w-auto brightness-0 invert" />
             </div>
             <p className="text-background/70 mb-6 leading-relaxed">
-              Advanced & affordable hair restoration with 20+ years of expertise. Trusted by 25,000+ patients across Chennai & Trichy.
+              Advanced & affordable hair restoration with 10+ years of expertise. Trusted by 25,000+ patients across Chennai & Trichy.
             </p>
             <div className="flex gap-4">
               <a href="https://www.facebook.com/p/Chennai-hair-studio-clinic-100091270226359/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 bg-background/10 rounded-full flex items-center justify-center hover:bg-primary transition-colors">
