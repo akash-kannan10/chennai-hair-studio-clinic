@@ -1,10 +1,10 @@
-import { 
-  CheckCircle, 
-  TrendingUp, 
-  Microscope, 
-  Award, 
-  IndianRupee, 
-  Clock 
+import {
+  CheckCircle,
+  TrendingUp,
+  Microscope,
+  Award,
+  IndianRupee,
+  Clock
 } from "lucide-react";
 
 const WhyChooseUs = () => {
@@ -27,7 +27,7 @@ const WhyChooseUs = () => {
     {
       icon: Award,
       title: "Expert Certified Doctors",
-      description: "20+ years of specialized experience in hair restoration procedures.",
+      description: "10+ years of specialized experience in hair restoration procedures.",
     },
     {
       icon: IndianRupee,

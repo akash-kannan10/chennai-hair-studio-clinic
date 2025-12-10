@@ -4,7 +4,7 @@ import heroBg from "@/assets/hero-bg.jpg";
 
 const Hero = () => {
   const trustBadges = [
-    { icon: Award, label: "20+ Years", value: "Experience" },
+    { icon: Award, label: "10+ Years", value: "Experience" },
     { icon: Users, label: "25K+", value: "Happy Patients" },
     { icon: Star, label: "4.8★", value: "Google Rating" },
     { icon: Shield, label: "US-FDA", value: "Approved Tech" },

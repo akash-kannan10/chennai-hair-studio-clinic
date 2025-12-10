@@ -47,7 +47,7 @@ const BookingSection = () => {
                 <div>
                   <h3 className="font-semibold text-foreground mb-1">Expert Doctors</h3>
                   <p className="text-muted-foreground">
-                    Consult with specialists who have 20+ years of experience in hair restoration.
+                    Consult with specialists who have 10+ years of experience in hair restoration.
                   </p>
                 </div>
               </div>
