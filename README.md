@@ -1,3 +1,5 @@
+The website is live at: https://www.chennaihairstudioclinic.com/
+
 # Chennai Hair Studio Clinic Website
 
 This is a responsive, professional website for **Chennai Hair Studio Clinic**, featuring two branches: **Chennai (Pallikaranai)** and **Trichy (Thillai Nagar)**.
